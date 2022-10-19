@@ -1,1 +1,1 @@
-# greet-awsome
+# greet-awesome
